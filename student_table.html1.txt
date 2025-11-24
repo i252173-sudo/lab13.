@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Records</title>
+</head>
+<body>
+
+<h2 style="text-align:center; font-family: Verdana ;">Student Information Table</h2>
+
+<table style="width: 80%; border: 1px solid black; font-family: Verdana;">
+    <tr>
+        <th style="background-color: lightgray; color: black; font-size: 16px; padding: 8px; border: 1px solid black;">Student ID</th>
+        <th style="background-color: lightgray; color: black; font-size: 16px; padding: 8px; border: 1px solid black;">Name</th>
+        <th style="background-color: lightgray; color: black; font-size: 16px; padding: 8px; border: 1px solid black;">Age</th>
+        <th style="background-color: lightgray; color: black; font-size: 16px; padding: 8px; border: 1px solid black;">Gender</th>
+        <th style="background-color: lightgray; color: black; font-size: 16px; padding: 8px; border: 1px solid black;">Marks</th>
+        <th style="background-color: lightgray; color: black; font-size: 16px; padding: 8px; border: 1px solid black;">City</th>
+    </tr>
+    <tbody>
+        <tr>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">25i-2172</td>
+            <td style="padding: 8px; border: 1px solid black;">Aleem Khan</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">21</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">Male</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">95</td>
+            <td style="padding: 8px; border: 1px solid black;">Lahore</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">25i-2173</td>
+            <td style="padding: 8px; border: 1px solid black;">Manahil Fatima</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">19</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">Female</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">89</td>
+            <td style="padding: 8px; border: 1px solid black;">Rawalpindi</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">25i-2004</td>
+            <td style="padding: 8px; border: 1px solid black;">Minal Ali</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">22</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">Female</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">70</td>
+            <td style="padding: 8px; border: 1px solid black;">Islamabad</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">25i-2171</td>
+            <td style="padding: 8px; border: 1px solid black;">Hafsa Shahid</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">20</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">Female</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">88</td>
+            <td style="padding: 8px; border: 1px solid black;">Karachi</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">25i-2190</td>
+            <td style="padding: 8px; border: 1px solid black;">Hamza Ali</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">19</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">Male</td>
+            <td style="padding: 8px; text-align: center; border: 1px solid black;">92</td>
+            <td style="padding: 8px; border: 1px solid black;">Multan</td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
